@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1002,
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "Employee_ID": 1001,
+      "Date": "2024-07-01",
+      "Time_In": "08:30",
+      "Time_Out": "17:15"
+    },
+    {
+      "id": 2,
+      "Employee_ID": 1001,
+      "Date": "2024-07-02",
+      "Time_In": "08:45",
+      "Time_Out": "17:30"
+    },
+    {
+      "id": 3,
+      "Employee_ID": 1001,
+      "Date": "2024-07-03",
+      "Time_In": "08:15",
+      "Time_Out": "16:45"
+    },
+    {
+      "id": 4,
+      "Employee_ID": 1002,
+      "Date": "2024-07-01",
+      "Time_In": "09:00",
+      "Time_Out": "18:00"
+    },
+    {
+      "id": 5,
+      "Employee_ID": 1002,
+      "Date": "2024-07-02",
+      "Time_In": "08:55",
+      "Time_Out": "17:50"
+    },
+    {
+      "id": 6,
+      "Employee_ID": 1002,
+      "Date": "2024-07-03",
+      "Time_In": "09:10",
+      "Time_Out": "18:15"
+    },
+    {
+      "id": 7,
+      "Employee_ID": 1003,
+      "Date": "2024-07-01",
+      "Time_In": "08:00",
+      "Time_Out": "16:30"
+    },
+    {
+      "id": 8,
+      "Employee_ID": 1003,
+      "Date": "2024-07-02",
+      "Time_In": "08:05",
+      "Time_Out": "16:45"
+    },
+    {
+      "id": 9,
+      "Employee_ID": 1003,
+      "Date": "2024-07-03",
+      "Time_In": "07:55",
+      "Time_Out": "16:40"
+    }
+  ]
+}
